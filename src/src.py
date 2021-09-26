@@ -1,4 +1,5 @@
 from pycoingecko import CoinGeckoAPI
+
 cg = CoinGeckoAPI()
 res = cg.get_coins_markets(vs_currency='usd')
 def myFunction(length):
