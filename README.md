@@ -13,8 +13,8 @@ pip install pycoingecko
 ```
   
 or from source
-
-
+```
 git clone https://github.com/man-c/pycoingecko.git
 cd pycoingecko
 python3 setup.py install
+```
