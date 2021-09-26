@@ -1,0 +1,2 @@
+Prior install pycoingecko library using following commands in your terminal
++ pip install pycoingecko
