@@ -9,7 +9,7 @@ Pulls the data from coingecko.com and filters out top N cryptocurrencies by mark
 
 PyPI
 
-<pip install pycoingecko >
+<pip install pycoingecko
 
   
 or from source
